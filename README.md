@@ -49,9 +49,9 @@
 # HERE IS THE PREVIEW HOW THIS PROJECT LOOKS😍
 ># [LIVE [HOSTED] PROJECT LINK](https://simple-react-todo-app.vercel.app/ "React TODO APP")
 
->![Screenshot](./screenshot/screenshot-1.png)
->![Screenshot](./screenshot/screenshot-2.png)
->![Screenshot](./screenshot/screenshot-3.png)
+>![Screenshot](./Screenshot/screenshot-1.png)
+>![Screenshot](./Screenshot/screenshot-2.png)
+>![Screenshot](./Screenshot/screenshot-3.png)
 
 
 
