@@ -14,7 +14,7 @@
 > ![Gif](https://miro.medium.com/max/600/1*KUjro0G-igf6P3lvlcDrTQ.png)
 
   - `React JS🤓 is today's most popular JavaScript Library for building User Interfaces, which has created by Facebook.`
-  - ` It is an efficient, flexible, and open-source JavaScript library, that was developed and is maintained by Facebook.🤠 It is capable of rendering front-ends of web apps that are simple, speedy, and scalable.`
+  - It is an efficient, flexible, and open-source JavaScript library, that was developed and is maintained by Facebook.🤠 It is capable of rendering front-ends of web apps that are simple, speedy, and scalable.
 
 
 > # All About `TO-DO APP` 😎
